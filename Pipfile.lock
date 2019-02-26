@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "3dd6a018430c2c4f0a7027fad4405518428191ea8374929ed069e4bfbe92bd6a"
+            "sha256": "6a89e1dfe46b3256323d1b4f790f110186bd1668e9e034b11471edc52eba9a22"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -44,11 +44,9 @@
             "version": "==4.2.1"
         },
         "flower": {
-            "hashes": [
-                "sha256:a7a828c2dbea7e9cff1c86d63626f0eeb047b1b1e9a0ee5daad30771fb51e6d0"
-            ],
-            "index": "pypi",
-            "version": "==0.9.2"
+            "editable": true,
+            "git": "https://github.com/mher/flower.git",
+            "ref": "1a291b31423faa19450a272c6ef4ef6fe8daa286"
         },
         "kombu": {
             "hashes": [
