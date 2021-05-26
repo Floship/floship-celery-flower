@@ -11,9 +11,9 @@ name = "pypi"
 
 [packages]
 
-flower = "==0.9.3"
+flower = "*"
 
 
 [requires]
 
-python_full_version = "3.7.4"
+python_full_version = "3.9.5"
